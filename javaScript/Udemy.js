@@ -5,23 +5,22 @@
 // let x
 // console.log(x)
 
-const obj = {
-    name: 'Nikita',
-    age: 19,
-    isProgrammer: true
-};
+// const obj = {
+//     name: 'Nikita',
+//     age: 19,
+//     isProgrammer: true
+// };
 
-console.log(obj)
+// console.log(obj)
 
 
-//массив - это частный случай оббъекта
-let arr = ['plump.img', 'orange.jpg', 'reatOrange']
-console.log(arr[1])
+// //массив - это частный случай оббъекта
+// let arr = ['plump.img', 'orange.jpg', 'reatOrange']
+// console.log(arr[1])
 
-alert('Hello')
+// alert('Hello')
 
-let nameUser = prompt('Enter name', '')
+// let nameUser = prompt('Enter name', '')
 
-let agreeName = confirm(`Is your name ${nameUser}?`)
-agreeName ? alert('Very well!') : alert('Imposible!')
-
+// let agreeName = confirm(`Is your name ${nameUser}?`)
+// agreeName ? alert('Very well!') : alert('Imposible!')
